@@ -10,7 +10,7 @@ Complete whichever one you have been directed to take.
 
 We will build a simple SPA, called **Episode Switcher**, that shows your ability to work with data on the front end. Please code in a [functional / declarative style](https://www.freecodecamp.org/news/imperative-vs-declarative-programming-difference/). Though `for` loops are very fast, for the purposes of this challenge, please avoid using `for`, `forEach`, `for...in`, and `for...of`, and instead use functional array methods. Your app should not 404 or crash, so test everything.
 
-## 📼 [Watch a video of the app here](https://www.youtube.com/watch?v=w82Ae6JZrv0)
+### 📼 [Watch a video of the app here](https://www.youtube.com/watch?v=w82Ae6JZrv0)
 
 Remember to focus on functionality first, appearances second.
 
@@ -43,4 +43,4 @@ Golfing World
 Wedding Central
 ```
 
-## 🤞 Good luck!
+### 🤞 Good luck!
