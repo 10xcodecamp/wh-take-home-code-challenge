@@ -1,6 +1,6 @@
 # Take-home Code Challenge
 
-:wave: Welcome to William Hill's Front End Coding Challenge! This challenge is to showcase your knowledge of front-end web development with React.
+:wave: Welcome to W--------- H-----'s Front End Coding Challenge! This challenge is to showcase your knowledge of front-end web development with React.
 
 There are two versions of this test:
 1. Front End Engineer
