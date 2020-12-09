@@ -16,11 +16,11 @@ Remember to focus on functionality first, appearances second.
 
 ## 🤹 Front End Engineer Challenge
 
-Use [Create React App](https://create-react-app.dev/), [Bootstrap 4](https://getbootstrap.com/), and the [TVmaze API](https://www.tvmaze.com/api). You may use either Class Components or React Hooks.
+Use [Create React App](https://create-react-app.dev/) and the [TVmaze API](https://www.tvmaze.com/api). Optionally, use [Bootstrap 4](https://getbootstrap.com/) to make your app look like the demo, or use your own creativity to make it look how you want. You may use either Class Components or React Hooks.
 
 ## 🧙 Senior Front End Engineer Challenge
 
-Use [Create React App](https://create-react-app.dev/), **TypeScript**, [Bootstrap 4](https://getbootstrap.com/), and the [TVmaze API](https://www.tvmaze.com/api). Use React Hooks instead of Class Components. Do not mutate the values of objects or arrays and don't make shallow or deep copies of them—use [Immer](https://immerjs.github.io/immer/docs/introduction) to keep your values immutable. Never use the TypeScript `any` type.
+Use [Create React App](https://create-react-app.dev/), **TypeScript**, [Bootstrap 4](https://getbootstrap.com/), and the [TVmaze API](https://www.tvmaze.com/api). Use React Hooks instead of Class Components. Do not mutate the values of objects or arrays and don't make shallow or deep copies of them—use [Immer](https://immerjs.github.io/immer/docs/introduction) to keep your values immutable. Never use the TypeScript `any` type. Include unit tests for your functions and component tests for your React components.
 
 
 ## 🚀 Submitting Your Solution
